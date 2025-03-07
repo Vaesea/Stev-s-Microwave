@@ -1,21 +1,28 @@
-![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux-blue)
-![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/UmbratheUmbreon/PublicDenpaEngine/latest)
-[![Repo Size](https://img.shields.io/github/repo-size/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine)
-[![GitHub Issues](https://img.shields.io/github/issues/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/pulls)
-![GitHub All Downloads](https://img.shields.io/github/downloads/UmbratheUmbreon/PublicDenpaEngine/total)
-![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
-[![Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=UmbratheUmbreon/PublicDenpaEngine&type=Timeline)](https://star-history.com/#UmbratheUmbreon/PublicDenpaEngine&Timeline)
-
-# Friday Night Funkin': "DENPA" Engine
+# Friday Night Funkin': Stev's Microwave
 
 ## Synopsis
 
-Denpa Engine is a Friday Night Funkin' engine created by the likes of BlueVapor1234, Toadette8394, YanniZ06, jorge, MemeHoovy, Ziad, and much much more. Being intended to enhance the user experience, improve game performance, and increase the capabilities and efficiency of mod making, Denpa Engine is the most feature ready FNF engine to date. With features ranging from HScript and Lua scripting, to fully fitted editors, the engine is ready to go right out of the box.
+Stev's Microwave is an FNF mod made by Vaesea (me) based on VS. Stev by Your Average FNF Pro. It's a full mod with multiple weeks planned and many freeplay songs, as this mod will have every Stev song I have ever made! This mod is better experienced if you have practice mode or botplay on, especially if you wanna play the planned "accurate" mode, where certain songs will be charted accurately.
 
-## Denpa Engine Team
+## Story
+
+The blue haired guy goes to block guy's house, microwave-sounding songs, yaey.
+
+## Credits
+
+### Stev's Microwave "Team" (it's just one person)
+
+![image](https://github.com/user-attachments/assets/89a0770c-4edb-41d3-89ae-1a936307356d)
+
+Sophie "Vaesea" Ball - the only stev's microwave dev
+
+### Others
+
+![stev-idle](https://github.com/user-attachments/assets/8ad2e66d-e2eb-4b0e-9ef8-ee3ef6677aa4)
+
+Your Average FNF Pro - The creator of VS Stev
+
+### Denpa Engine Team
 
 ![at](https://user-images.githubusercontent.com/101066547/221386616-ff55be43-b6d3-4315-96b0-0b6140afb873.png)
 
