@@ -12,7 +12,7 @@ The blue haired guy goes to block guy's house, microwave-sounding songs, yaey.
 
 ### Stev's Microwave "Team" (it's just one person)
 
-![image](https://github.com/user-attachments/assets/89a0770c-4edb-41d3-89ae-1a936307356d)
+![image](https://github.com/user-attachments/assets/5df48f95-b893-48f7-afe3-1a19b903cc54)
 
 Sophie "Vaesea" Ball - the only stev's microwave dev
 
