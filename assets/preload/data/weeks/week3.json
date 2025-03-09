@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"return",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"idyllic",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"deluxe",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"stairs",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "ok so now it's like bambi",
+	"weekName": "Week 3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

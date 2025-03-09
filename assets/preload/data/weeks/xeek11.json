@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"microwave",
+			"upo1",
+			[
+				155,
+				0,
+				120
+			]
+		],
+		[
+			"distortion",
+			"piss",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"strange",
+			"strang1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"weird",
+			"strang2",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "some random stevs",
+	"weekName": "Week 11",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

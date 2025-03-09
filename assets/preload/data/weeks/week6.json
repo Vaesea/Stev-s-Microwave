@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"ecclesiophobia",
+			"ecc",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"fear of god",
+			"ecc",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"theophobia",
+			"ecc",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"algomania",
+			"ecc",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "one is not like the other",
+	"weekName": "Week 6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

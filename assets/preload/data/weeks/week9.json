@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"heaven",
+			"heavev",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"angelic demon",
+			"heavev2",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"destroyed paradise",
+			"doz",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"scrapped",
+			"heavev3",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "heavev real?",
+	"weekName": "Week 9",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

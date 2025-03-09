@@ -1,0 +1,36 @@
+{
+	"songs": [
+		[
+			"old coalesce",
+			"coalesce",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i can't fit it into one song because of how big it is",
+	"weekName": "Week 13",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

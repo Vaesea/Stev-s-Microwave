@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"deepslate",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"definitive",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"plains",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"ingot",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "starting to get a bit spammy now but whatever",
+	"weekName": "Week 2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

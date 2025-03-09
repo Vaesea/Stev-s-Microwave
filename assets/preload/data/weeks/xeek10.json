@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"prison",
+			"upo1",
+			[
+				155,
+				0,
+				120
+			]
+		],
+		[
+			"jail",
+			"upo2",
+			[
+				155,
+				0,
+				120
+			]
+		],
+		[
+			"penitentiary",
+			"upo3",
+			[
+				155,
+				0,
+				120
+			]
+		],
+		[
+			"confinement",
+			"upo4",
+			[
+				155,
+				0,
+				120
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "upo the unidentified stev object",
+	"weekName": "Week 10",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

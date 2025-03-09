@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"disrelish",
+			"dis1",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"revulsion",
+			"dis2",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"disintegrated",
+			"dis3",
+			[
+				140,
+				0,
+				0
+			]
+		],
+		[
+			"immensity",
+			"dis4",
+			[
+				80,
+				0,
+				100
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the disrelish series, part 1",
+	"weekName": "Week 7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

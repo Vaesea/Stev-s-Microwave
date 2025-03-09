@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"sufferathon",
+			"upo1",
+			[
+				155,
+				0,
+				120
+			]
+		],
+		[
+			"new coalesce",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "uh oh.",
+	"weekName": "Week 12",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

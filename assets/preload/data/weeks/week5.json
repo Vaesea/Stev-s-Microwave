@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"hellfire",
+			"stev-cheating",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"perdition",
+			"stev-cheating",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"beacon",
+			"stev-beacon",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"maddening",
+			"stev-beacon",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "there's no way",
+	"weekName": "Week 5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

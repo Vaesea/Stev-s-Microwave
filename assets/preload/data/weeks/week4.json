@@ -1,0 +1,63 @@
+{
+	"songs": [
+		[
+			"printer",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"destroy",
+			"stev-angry",
+			[
+				86,
+				193,
+				235
+			]
+		],
+		[
+			"lava",
+			"stev-angry",
+			[
+				86,
+				193,
+				235
+			]
+		],
+		[
+			"cheater",
+			"stev-cheating",
+			[
+				1,
+				1,
+				2
+			]
+		]
+	],
+	"sections": [
+		"All",
+		"Story"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "what the fuck",
+	"weekName": "Week 4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

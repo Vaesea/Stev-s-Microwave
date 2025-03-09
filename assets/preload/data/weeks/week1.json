@@ -1,0 +1,62 @@
+{
+	"songs": [
+		[
+			"world",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"hello",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"i can has diamonds",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		],
+		[
+			"medley",
+			"stev",
+			[
+				106,
+				213,
+				255
+			]
+		]
+	],
+	"sections": [
+		"All"
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "not so chaotic yet",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
